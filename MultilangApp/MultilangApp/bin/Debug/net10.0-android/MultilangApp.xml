@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MultilangApp</name>
+    </assembly>
+    <members>
+        <member name="T:MultilangApp.Resources.Localization.AppResources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.AppResources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.AppResources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.AppResources.ChangeLanguage">
+            <summary>
+              Looks up a localized string similar to Change Language.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.AppResources.EnglishButton">
+            <summary>
+              Looks up a localized string similar to English.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.AppResources.EstonianButton">
+            <summary>
+              Looks up a localized string similar to Estonian.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.AppResources.GreetingText">
+            <summary>
+              Looks up a localized string similar to Hello, World!.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.AppResources.RussianButton">
+            <summary>
+              Looks up a localized string similar to Russian.
+            </summary>
+        </member>
+        <member name="T:MultilangApp.Resources.Localization.Appresources_ru">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.Appresources_ru.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.Appresources_ru.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.Appresources_ru.ChangeLanguage">
+            <summary>
+              Looks up a localized string similar to Сменить язык.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.Appresources_ru.EnglishButton">
+            <summary>
+              Looks up a localized string similar to Английский.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.Appresources_ru.EstonianButton">
+            <summary>
+              Looks up a localized string similar to Эстонский.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.Appresources_ru.GreetingText">
+            <summary>
+              Looks up a localized string similar to Привет, мир!.
+            </summary>
+        </member>
+        <member name="P:MultilangApp.Resources.Localization.Appresources_ru.RussianButton">
+            <summary>
+              Looks up a localized string similar to Русский.
+            </summary>
+        </member>
+        <member name="T:MultilangApp.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+    </members>
+</doc>
