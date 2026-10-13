@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="CarouselView" mvid="6bab5bfe9ba14c60907fe3a80f5fc34c">
+<api type="debug" assembly-name="CarouselView" mvid="80d54ef22a7d4b4093764fa75f510ec1">
   <java-to-managed>
     <entry java-name="crc640b1f55c89cc7f8ed/MainActivity" managed-name="CarouselView.MainActivity, CarouselView" managed-type-token-id="33554443" />
     <entry java-name="crc640b1f55c89cc7f8ed/MainApplication" managed-name="CarouselView.MainApplication, CarouselView" managed-type-token-id="33554444" />

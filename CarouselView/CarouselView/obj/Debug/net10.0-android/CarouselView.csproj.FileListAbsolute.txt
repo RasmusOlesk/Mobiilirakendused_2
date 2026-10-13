@@ -1604,3 +1604,6 @@ C:\Users\opilane\source\repos\Mobiilirakendused_2\CarouselView\CarouselView\obj\
 C:\Users\opilane\source\repos\Mobiilirakendused_2\CarouselView\CarouselView\obj\Debug\net10.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\opilane\source\repos\Mobiilirakendused_2\CarouselView\CarouselView\obj\Debug\net10.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\opilane\source\repos\Mobiilirakendused_2\CarouselView\CarouselView\obj\Debug\net10.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\opilane\source\repos\Mobiilirakendused_2\CarouselView\CarouselView\obj\Debug\net10.0-android\resizetizer\r\drawable\csharp.jpg
+C:\Users\opilane\source\repos\Mobiilirakendused_2\CarouselView\CarouselView\obj\Debug\net10.0-android\resizetizer\r\drawable\javascript.jpg
+C:\Users\opilane\source\repos\Mobiilirakendused_2\CarouselView\CarouselView\obj\Debug\net10.0-android\resizetizer\r\drawable\python.jpg

@@ -9,21 +9,13 @@ namespace CarouselView.Models
 {
     public class MainPageViewModel : INotifyPropertyChanged
     {
-        private ObservableCollection<LanguageModel> _languages = new();
+        private readonly ObservableCollection<LanguageModel> _languages = new();
         private int _position;
         private readonly System.Timers.Timer _timer;
         private string _currentLanguage = "ET";
         private bool _isShowingDetails;
 
-        public ObservableCollection<LanguageModel> Languages
-        {
-            get => _languages;
-            set
-            {
-                _languages = value;
-                OnPropertyChanged();
-            }
-        }
+        public ObservableCollection<LanguageModel> Languages => _languages;
 
         public int Position
         {
@@ -67,6 +59,7 @@ namespace CarouselView.Models
             LoadLanguages();
 
             _timer = new System.Timers.Timer(4000);
+            _timer.AutoReset = true;
 
             _timer.Elapsed += (sender, args) =>
             {
@@ -84,68 +77,76 @@ namespace CarouselView.Models
 
         public void LoadLanguages()
         {
-            Languages.Clear();
+            // Kaardid luuakse ainult üks kord.
+            if (Languages.Count == 0)
+            {
+                Languages.Add(new LanguageModel());
+                Languages.Add(new LanguageModel());
+                Languages.Add(new LanguageModel());
+            }
 
             if (CurrentLanguage == "ET")
             {
-                Languages.Add(new LanguageModel
-                {
-                    Name = "C#",
-                    Description = "Võimas objektorienteeritud keel",
-                    ImageUrl = "https://microsoft.com",
-                    Details = "Loodud Microsofti poolt aastal 2000.\n\nKoodinäide:\nConsole.WriteLine(\"Hello World\");"
-                });
+                UpdateLanguage(
+                    0,
+                    "C#",
+                    "Võimas objektorienteeritud keel",
+                    "Loodud Microsofti poolt aastal 2000.\n\nKoodinäide:\nConsole.WriteLine(\"Hello World\");",
+                    "csharp.png");
 
-                Languages.Add(new LanguageModel
-                {
-                    Name = "Python",
-                    Description = "Suurepärane andmetöötluseks",
-                    ImageUrl = "https://wikimedia.org",
-                    Details = "Loodud aastal 1991.\n\nKoodinäide:\nprint(\"Hello World\")"
-                });
+                UpdateLanguage(
+                    1,
+                    "Python",
+                    "Suurepärane andmetöötluseks",
+                    "Loodud aastal 1991.\n\nKoodinäide:\nprint(\"Hello World\")",
+                    "python.png");
 
-                Languages.Add(new LanguageModel
-                {
-                    Name = "JavaScript",
-                    Description = "Veebiarenduse põhikeel",
-                    ImageUrl = "https://wikimedia.org",
-                    Details = "Loodud aastal 1995.\n\nKoodinäide:\nconsole.log(\"Hello World\");"
-                });
+                UpdateLanguage(
+                    2,
+                    "JavaScript",
+                    "Veebiarenduse põhikeel",
+                    "Loodud aastal 1995.\n\nKoodinäide:\nconsole.log(\"Hello World\");",
+                    "javascript.png");
             }
             else
             {
-                Languages.Add(new LanguageModel
-                {
-                    Name = "C#",
-                    Description = "Powerful object-oriented language",
-                    ImageUrl = "https://microsoft.com",
-                    Details = "Created by Microsoft in 2000.\n\nCode example:\nConsole.WriteLine(\"Hello World\");"
-                });
+                UpdateLanguage(
+                    0,
+                    "C#",
+                    "Powerful object-oriented language",
+                    "Created by Microsoft in 2000.\n\nCode example:\nConsole.WriteLine(\"Hello World\");",
+                    "csharp.png");
 
-                Languages.Add(new LanguageModel
-                {
-                    Name = "Python",
-                    Description = "Great for data and automation",
-                    ImageUrl = "https://wikimedia.org",
-                    Details = "Created in 1991.\n\nCode example:\nprint(\"Hello World\")"
-                });
+                UpdateLanguage(
+                    1,
+                    "Python",
+                    "Great for data and automation",
+                    "Created in 1991.\n\nCode example:\nprint(\"Hello World\")",
+                    "python.png");
 
-                Languages.Add(new LanguageModel
-                {
-                    Name = "JavaScript",
-                    Description = "The language of the web",
-                    ImageUrl = "https://wikimedia.org",
-                    Details = "Created in 1995.\n\nCode example:\nconsole.log(\"Hello World\");"
-                });
-            }
-
-            if (Position >= Languages.Count)
-            {
-                Position = 0;
+                UpdateLanguage(
+                    2,
+                    "JavaScript",
+                    "The language of the web",
+                    "Created in 1995.\n\nCode example:\nconsole.log(\"Hello World\");",
+                    "javascript.png");
             }
         }
 
-        private async void OnLanguageSelected(LanguageModel lang)
+        private void UpdateLanguage(
+            int index,
+            string name,
+            string description,
+            string details,
+            string imageUrl)
+        {
+            Languages[index].Name = name;
+            Languages[index].Description = description;
+            Languages[index].Details = details;
+            Languages[index].ImageUrl = imageUrl;
+        }
+
+        private async void OnLanguageSelected(LanguageModel? lang)
         {
             if (lang == null || _isShowingDetails)
                 return;
@@ -175,6 +176,11 @@ namespace CarouselView.Models
                         close);
                 }
             }
+            catch (Exception ex)
+            {
+                System.Diagnostics.Debug.WriteLine(
+                    $"Infoakna avamine ebaõnnestus: {ex.Message}");
+            }
             finally
             {
                 _isShowingDetails = false;
@@ -184,7 +190,10 @@ namespace CarouselView.Models
 
         private void OnChangeLanguage()
         {
+            // Muudame keelt, säilitades kaardid ja nende järjekorra.
             CurrentLanguage = CurrentLanguage == "ET" ? "EN" : "ET";
+
+            // Uuendame olemasolevate kaartide andmeid ja pilte.
             LoadLanguages();
         }
 
