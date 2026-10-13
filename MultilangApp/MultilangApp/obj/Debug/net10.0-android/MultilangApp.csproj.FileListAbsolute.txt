@@ -1622,3 +1622,4 @@ C:\Users\opilane\source\repos\Mobiilirakendused_2\MultilangApp\MultilangApp\obj\
 C:\Users\opilane\source\repos\Mobiilirakendused_2\MultilangApp\MultilangApp\obj\Debug\net10.0-android\et\MultilangApp.resources.dll
 C:\Users\opilane\source\repos\Mobiilirakendused_2\MultilangApp\MultilangApp\obj\Debug\net10.0-android\ru\MultilangApp.resources.dll
 C:\Users\opilane\source\repos\Mobiilirakendused_2\MultilangApp\MultilangApp\obj\Debug\net10.0-android\MultilangApp.Resources.Localization.AppResources.et.resources
+C:\Users\opilane\source\repos\Mobiilirakendused_2\MultilangApp\MultilangApp\obj\Debug\net10.0-android\MultilangApp.sourcelink.json

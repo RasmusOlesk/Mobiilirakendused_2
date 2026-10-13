@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultilangApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+275afcaca7d99f99b352ec8620ea29b3842400b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultilangApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultilangApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

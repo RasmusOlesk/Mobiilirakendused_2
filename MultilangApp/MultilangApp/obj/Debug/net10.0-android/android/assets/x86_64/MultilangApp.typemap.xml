@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="MultilangApp" mvid="848d30758a734284b9014bfce9de3f03">
+<api type="debug" assembly-name="MultilangApp" mvid="764457e41e2e43c2b589c98dcbcbb1cb">
   <java-to-managed>
     <entry java-name="crc64a65d91bef7be3cf1/MainActivity" managed-name="MultilangApp.MainActivity, MultilangApp" managed-type-token-id="33554441" />
     <entry java-name="crc64a65d91bef7be3cf1/MainApplication" managed-name="MultilangApp.MainApplication, MultilangApp" managed-type-token-id="33554442" />
