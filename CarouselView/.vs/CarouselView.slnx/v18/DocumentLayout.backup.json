@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\models\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\models\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
       "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
     },
@@ -16,14 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\models\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\models\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\models\\languagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,7 +65,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,52 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "CarouselView\\Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\MainActivity.cs",
-              "RelativeToolTip": "CarouselView\\Platforms\\Android\\MainActivity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T09:05:47.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "CarouselView\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\AndroidManifest.xml*",
-              "RelativeToolTip": "CarouselView\\Platforms\\Android\\AndroidManifest.xml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-10-13T09:03:39.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Xamarin.Android.Aapt2.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAMwNcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-10-13T09:03:33.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CarouselView.csproj",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\CarouselView.csproj",
               "RelativeDocumentMoniker": "CarouselView\\CarouselView.csproj",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\CarouselView.csproj*",
-              "RelativeToolTip": "CarouselView\\CarouselView.csproj*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\CarouselView.csproj",
+              "RelativeToolTip": "CarouselView\\CarouselView.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-10-12T11:13:05.369Z",
               "EditorCaption": ""
@@ -137,6 +98,69 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CarouselView\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\MainPage.xaml",
+              "RelativeToolTip": "CarouselView\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T09:37:36.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "CarouselView\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "CarouselView\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-10-13T09:03:39.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Models\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "CarouselView\\Models\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Models\\MainPageViewModel.cs*",
+              "RelativeToolTip": "CarouselView\\Models\\MainPageViewModel.cs*",
+              "ViewState": "AgIAAJMAAAAAAAAAAAA6wMYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:33:28.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAMwNcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-13T09:03:33.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "CarouselView\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "CarouselView\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:05:47.867Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\MainPage.xaml.cs",
@@ -149,19 +173,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\MainPage.xaml",
-              "RelativeDocumentMoniker": "CarouselView\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\MainPage.xaml",
-              "RelativeToolTip": "CarouselView\\MainPage.xaml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAzwFEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-12T09:37:36.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "LocalizationResourceManager.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\LocalizationResourceManager.cs",
@@ -171,19 +182,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T09:36:15.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Models\\MainPageViewModel.cs",
-              "RelativeDocumentMoniker": "CarouselView\\Models\\MainPageViewModel.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Models\\MainPageViewModel.cs",
-              "RelativeToolTip": "CarouselView\\Models\\MainPageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T09:33:28.738Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -206,8 +204,7 @@
               "RelativeToolTip": "CarouselView\\Models\\LanguageModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T09:31:12.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T09:31:12.492Z"
             },
             {
               "$type": "Document",
