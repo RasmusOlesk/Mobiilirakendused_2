@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CarouselView</name>
+    </assembly>
+    <members>
+        <member name="T:CarouselView.AppResources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.AppTitle">
+            <summary>
+              Looks up a localized string similar to Programming Languages.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.ChangeLanguage">
+            <summary>
+              Looks up a localized string similar to Change Language.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.Close">
+            <summary>
+              Looks up a localized string similar to Close.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.CppDesc">
+            <summary>
+              Looks up a localized string similar to High-performance system language.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.CSharpDesc">
+            <summary>
+              Looks up a localized string similar to Powerful object-oriented language.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.DetailsTitle">
+            <summary>
+              Looks up a localized string similar to Language Info.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.JavaDesc">
+            <summary>
+              Looks up a localized string similar to Write once, run anywhere.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.JSDesc">
+            <summary>
+              Looks up a localized string similar to The language of the web.
+            </summary>
+        </member>
+        <member name="P:CarouselView.AppResources.PythonDesc">
+            <summary>
+              Looks up a localized string similar to Great for data and automation.
+            </summary>
+        </member>
+        <member name="T:CarouselView.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+    </members>
+</doc>

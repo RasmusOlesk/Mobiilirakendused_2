@@ -1,4 +1,4 @@
-﻿namespace CarouselView
+﻿namespace CarouselView.Models
 {
     public class LanguageModel
     {

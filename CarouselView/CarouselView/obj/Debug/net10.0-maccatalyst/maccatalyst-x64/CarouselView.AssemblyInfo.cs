@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarouselView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+275afcaca7d99f99b352ec8620ea29b3842400b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+15f943fd43433a98ed9bfb6a475d39ca405074c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarouselView")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarouselView")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

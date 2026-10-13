@@ -3,48 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\resources\\localization\\appresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\resources\\localization\\appresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\carouselview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\carouselview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\localizationresourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\localizationresourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\carouselview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\carouselview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\models\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\models\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\models\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\models\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\models\\languagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\models\\languagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\models\\languagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\models\\languagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\resources\\localization\\appresources.et.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|Form",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\resources\\localization\\appresources.et.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|Form"
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\resources\\localization\\appresources.et.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|Form",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\resources\\localization\\appresources.et.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\resources\\localization\\appresources.et.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\resources\\localization\\appresources.et.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\resources\\localization\\appresources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8EBFC94F-2801-4E26-9A26-F590B3FE6CB6}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\resources\\localization\\appresources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\localizationresourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\localizationresourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\resources\\localization\\appresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\resources\\localization\\appresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\resources\\localization\\appresources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\resources\\localization\\appresources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused_2\\carouselview\\carouselview\\resources\\localization\\appresources.et.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C6216B54-F835-426B-CA5B-D5CB0CCA2133}|CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\resources\\localization\\appresources.et.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +65,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,8 +73,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarouselView",
+              "DocumentIndex": 3,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "CarouselView\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "CarouselView\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:05:47.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "CarouselView\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "CarouselView\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-10-13T09:03:39.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.2\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAMwNcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-13T09:03:33.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarouselView.csproj",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\CarouselView.csproj",
               "RelativeDocumentMoniker": "CarouselView\\CarouselView.csproj",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\CarouselView.csproj",
@@ -71,19 +121,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-10-12T11:13:05.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\App.xaml",
-              "RelativeDocumentMoniker": "CarouselView\\App.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\App.xaml",
-              "RelativeToolTip": "CarouselView\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-12T09:48:51.889Z",
               "EditorCaption": ""
             },
             {
@@ -96,12 +133,11 @@
               "RelativeToolTip": "CarouselView\\Resources\\Localization\\AppResources.et.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-10-12T09:44:40.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T09:44:40.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "CarouselView\\MainPage.xaml.cs",
@@ -109,25 +145,24 @@
               "RelativeToolTip": "CarouselView\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T09:38:39.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T09:38:39.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\MainPage.xaml",
               "RelativeDocumentMoniker": "CarouselView\\MainPage.xaml",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\MainPage.xaml",
               "RelativeToolTip": "CarouselView\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAzwFEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-12T09:37:36.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "LocalizationResourceManager.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\LocalizationResourceManager.cs",
               "RelativeDocumentMoniker": "CarouselView\\LocalizationResourceManager.cs",
@@ -135,8 +170,7 @@
               "RelativeToolTip": "CarouselView\\LocalizationResourceManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T09:36:15.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T09:36:15.572Z"
             },
             {
               "$type": "Document",
@@ -146,22 +180,21 @@
               "RelativeDocumentMoniker": "CarouselView\\Models\\MainPageViewModel.cs",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Models\\MainPageViewModel.cs",
               "RelativeToolTip": "CarouselView\\Models\\MainPageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T09:33:28.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "AppResources.resx",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Resources\\Localization\\AppResources.resx",
               "RelativeDocumentMoniker": "CarouselView\\Resources\\Localization\\AppResources.resx",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Resources\\Localization\\AppResources.resx",
               "RelativeToolTip": "CarouselView\\Resources\\Localization\\AppResources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-10-12T09:32:09.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T09:32:09.828Z"
             },
             {
               "$type": "Document",
@@ -178,7 +211,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\App.xaml",
+              "RelativeDocumentMoniker": "CarouselView\\App.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\App.xaml",
+              "RelativeToolTip": "CarouselView\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T09:48:51.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AppResources.resx",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Resources\\Localization\\AppResources.resx",
               "RelativeDocumentMoniker": "CarouselView\\Resources\\Localization\\AppResources.resx",
@@ -186,12 +231,11 @@
               "RelativeToolTip": "CarouselView\\Resources\\Localization\\AppResources.resx",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAGwAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-10-12T09:28:14.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T09:28:14.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "AppResources.et.resx",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused_2\\CarouselView\\CarouselView\\Resources\\Localization\\AppResources.et.resx",
               "RelativeDocumentMoniker": "CarouselView\\Resources\\Localization\\AppResources.et.resx",
@@ -199,8 +243,7 @@
               "RelativeToolTip": "CarouselView\\Resources\\Localization\\AppResources.et.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-10-12T09:23:25.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T09:23:25.482Z"
             }
           ]
         }
